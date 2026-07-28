@@ -4,13 +4,13 @@ A Python project that detects red, green, and blue objects in real time using Op
 ## Screenshots
 
 ### Blue Screen
-![Blue.png](images2/blue.png)
+![Blue](blue.png)
 
 ### Green Screen
-![Green.png](images2/green.png)
+![Green](green.png)
 
 ### Red Screen
-![Red,png](images2/red.png)
+![Red](red.png)
 
 
 
