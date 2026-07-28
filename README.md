@@ -10,7 +10,7 @@ A Python project that detects red, green, and blue objects in real time using Op
 ![Green](green.png)
 
 ### Red Screen
-![Red](red.png)
+![Red](https://github.com/sarah-alotaibi211/SmartColorDetection/blob/main/red.jpg)
 
 
 
