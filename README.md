@@ -1,6 +1,20 @@
 # SmartColorDetection
 A Python project that detects red, green, and blue objects in real time using OpenCV and a webcam.
 
+## Screenshots
+
+### Blue Screen
+![Blue Screen](images/blue.png)
+
+### Green Screen
+![Green Screen](images/green.png)
+
+### Red Screen
+![Red Screen](images/red.png)
+
+
+
+
 
 ## Project Overview
 
